@@ -5,7 +5,7 @@ import Footer from './Footer'
 import Note from './Note'
 
 function App() {
-  const [notes, setNotes] = useState(0)
+  const [notes, setNotes] = useState([])
 
   function addNote(newNote){
     setNotes(prevNotes => {

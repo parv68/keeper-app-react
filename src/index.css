@@ -10,6 +10,7 @@
     background: #eee;
     background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
     padding: 0 16px;
+    margin: auto;
   }
   
   header {
@@ -34,7 +35,7 @@
   }
   
   footer p {
-    color: #ccc;
+    color: black;
   }
   .note {
     background: #fff;

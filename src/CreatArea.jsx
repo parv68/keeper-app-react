@@ -22,7 +22,7 @@ function CreatArea(props){
         event.preventDefault()
     }
     function expand(){
-        setExpanded(ture)
+        setExpanded(true)
     }
 
     return (
